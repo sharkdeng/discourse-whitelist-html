@@ -3,4 +3,4 @@
 # version: 0.1
 # authors: NomNuggetNom
 
-register_asset "javascripts/whitelist-tables.js", :server_side
+register_asset "javascripts/whitelist-html.js", :server_side
